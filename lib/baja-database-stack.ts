@@ -5,7 +5,7 @@ import { Construct } from "constructs";
 export class BajaDatabaseStack extends cdk.Stack {
   constructor(scope: Construct, id: string, props?: cdk.StackProps) {
     super(scope, id, props);
-    //TEST 1
+    //TEST 2
 
     // The code that defines your stack goes here
 
